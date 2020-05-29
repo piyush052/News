@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">SignIn</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="google_sign_in">Google Sign In</string>
+</resources>
